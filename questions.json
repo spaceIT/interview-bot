@@ -1,0 +1,40 @@
+{
+  "css": [
+    {
+      "id": 1,
+      "text": "Какие существуют способы центрирования блока?",
+      "hasOptions": true,
+      "answer": "qwe"
+    },
+    {
+      "id": 2,
+      "text": "Что такое вес селектора?",
+      "hasOptions": true,
+      "answer": "Вес селектора — это условные четыре позиции x, x, x, x , которые заполняются нулями и единицами в соответствии с содержимым селектора."
+    }
+  ],
+  "js": [
+    {
+      "id": 1,
+      "text": "Какие существуют типы данных в JS?",
+      "hasOptions": true,
+      "answer": "number | string | boolean | undefined \nobject | bigInt | symbol | null"
+    }
+  ],
+  "typescript": [
+    {
+      "id": 1,
+      "text": "Что такое typescript?",
+      "hasOptions": true,
+      "answer": "Это язык программирования, в котором исправлены многие недостатки JavaScript \n\n Подробнее: <a href = 'https://skillbox.ru/media/code/typescript_kak_s_nim_rabotat_i_chem_on_otlichaetsya_ot_javascript/' target='_blank'>Документация React</a>"
+    }
+  ],
+  "react": [
+    {
+      "id": 1,
+      "text": "Что такое виртуальный DOM?",
+      "hasOptions": true,
+      "answer": "qwe"
+    }
+  ]
+}

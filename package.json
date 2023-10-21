@@ -1,0 +1,15 @@
+{
+  "name": "frontend_interview_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrey Svistun",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.2",
+    "nodemon": "^3.0.1"
+  }
+}
